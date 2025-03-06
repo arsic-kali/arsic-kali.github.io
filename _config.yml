@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Arsics-Hacking-Blog
+description: "A culmination of my notes, wrietups, projects and ideas."
 author:
   name: "Arsic"
   email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  url: "https://arsic-kali.github.io/"
 
 baseurl: /
 

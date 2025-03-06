@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Archive
+title: Test
 ---
 
+This is a test page.
