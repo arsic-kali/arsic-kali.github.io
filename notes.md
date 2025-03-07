@@ -7,11 +7,13 @@ These are some of my hacking notes I have gathered over the years. I wanted to h
 
 
 <h1> Notes </h1>
-- Web
+
+
+- <h3>Web</h3>
     - [Web Enumeration](/enum) 
     - [Filehosting Payloads](/web-payloads)
 
-- 
+
 
 
 
