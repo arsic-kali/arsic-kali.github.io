@@ -13,6 +13,9 @@ These are some of my hacking notes I have gathered over the years. I wanted to h
     - [Web Enumeration](/enum) 
     - [Filehosting Payloads](/web-payloads)
 
+- <h3> Misc </h3>
+    - [Random Tips and Tricks](/misc)
+
 
 
 
