@@ -12,12 +12,11 @@ These are some of my hacking notes I have gathered over the years. I wanted to h
 - <h3>Web</h3>
     - [Web Enumeration](/enum) 
     - [Filehosting Payloads](/web-payloads)
-<br>
 
+<br>
 - <h3>Networking</h3>
     - [Pivoting with Ligolo-ng](/ligolo)
-<br>
 
+<br>
 - <h3>Misc</h3>
     - [Random Tips and Tricks](/misc)
-<br>
