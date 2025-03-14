@@ -12,23 +12,12 @@ These are some of my hacking notes I have gathered over the years. I wanted to h
 - <h3>Web</h3>
     - [Web Enumeration](/enum) 
     - [Filehosting Payloads](/web-payloads)
+<br>
 
-- <h3> Misc </h3>
-    - [Random Tips and Tricks](/misc)
-- <h3> Networking </h3>
+- <h3>Networking</h3>
     - [Pivoting with Ligolo-ng](/ligolo)
+<br>
 
-
-
-
-
-
-
-
-
-
-<!-- - level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item -->
+- <h3>Misc</h3>
+    - [Random Tips and Tricks](/misc)
+<br>
