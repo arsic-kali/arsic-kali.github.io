@@ -15,6 +15,8 @@ These are some of my hacking notes I have gathered over the years. I wanted to h
 
 - <h3> Misc </h3>
     - [Random Tips and Tricks](/misc)
+- <h3> Networking </h3>
+    - [Pivoting with Ligolo-ng](/ligolo)
 
 
 
