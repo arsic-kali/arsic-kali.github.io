@@ -8,15 +8,20 @@ These are some of my hacking notes I have gathered over the years. I wanted to h
 
 <h1> Notes </h1>
 
-
-- <h3>Web</h3>
-    - [Web Enumeration](/enum) 
-    - [Filehosting Payloads](/web-payloads)
-
-<br>
-- <h3>Networking</h3>
-    - [Pivoting with Ligolo-ng](/ligolo)
+<h3>Web</h3>
+<ul>
+    <li><a href="/enum">Web Enumeration</a></li>
+    <li><a href="/web-payloads">Filehosting Payloads</a></li>
+</ul>
 
 <br>
-- <h3>Misc</h3>
-    - [Random Tips and Tricks](/misc)
+<h3>Networking</h3>
+<ul>
+    <li><a href="/ligolo">Pivoting with Ligolo-ng</a></li>
+</ul>
+
+<br>
+<h3>Misc</h3>
+<ul>
+    <li><a href="/misc">Random Tips and Tricks</a></li>
+</ul>
