@@ -1,5 +1,5 @@
 ---
-title: Random Tips and Tricks
+title: My Tmux Config
 published: true
 ---
 
@@ -11,7 +11,7 @@ Below are some features that it provides:
 *   Adds color scheme to status bar, which can easily be tweaked to your liking.
 
 #### [](#header-4)Remember to create/paste this into a .tmux.conf file:
-```
+```bash
 # Enable mouse support
 set -g mouse on
 #set -g set-clipboard on
